@@ -1,0 +1,1 @@
+docker build --tag pabi-api-gateway --build-arg PATH=./build/libs/ .
